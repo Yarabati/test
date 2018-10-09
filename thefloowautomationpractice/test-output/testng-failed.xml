@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Automation Practice]">
+  <listeners>
+    <listener class-name="com.thefloowautomationpractice.qa.reports.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="Registering(failed)">
+    <classes>
+      <class name="com.thefloowautomationpractice.qa.testcases.RegisterAnAccount">
+        <methods>
+          <include name="TestCase1_RegisterAnAccount"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.thefloowautomationpractice.qa.testcases.RegisterAnAccount -->
+    </classes>
+  </test> <!-- Registering(failed) -->
+</suite> <!-- Failed suite [Automation Practice] -->

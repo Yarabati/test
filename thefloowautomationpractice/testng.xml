@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Practice">
+
+  <listeners>
+  <listener class-name = "com.thefloowautomationpractice.qa.reports.ExtentReporterNG" />
+  </listeners>
+  <test thread-count="5" name="Registering">
+    <classes>
+      <class name="com.thefloowautomationpractice.qa.testcases.RegisterAnAccount"/>
+    </classes>
+  </test> <!-- Test -->
+  
+ <test thread-count="5" name="Logging in">
+    <classes>
+      <class name="com.thefloowautomationpractice.qa.testcases.LoginPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Conducting a Search">
+    <classes>
+      <class name="com.thefloowautomationpractice.qa.testcases.ConductingSearchTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="Conducting some navigation and checking some values exist">
+    <classes>
+      <class name="com.thefloowautomationpractice.qa.testcases.NavigationTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test thread-count="5" name="Making a purchase">
+    <classes>
+      <class name="com.thefloowautomationpractice.qa.testcases.PurchaseTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

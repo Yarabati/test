@@ -1,0 +1,85 @@
+2018-10-09 22:12:47,815  INFO [main] RegisterAnAccount:38 -  
+2018-10-09 22:12:47,822  INFO [main] RegisterAnAccount:39 -  
+2018-10-09 22:12:47,827  INFO [main] RegisterAnAccount:40 -    Test Preparation:    Driver Launched Successfully
+2018-10-09 22:12:54,510  INFO [main] RegisterAnAccount:43 -    Test Preparation:    URL Opened Successfully
+2018-10-09 22:12:54,583  INFO [main] RegisterAnAccount:50 -                
+2018-10-09 22:12:54,584  INFO [main] RegisterAnAccount:51 -                
+2018-10-09 22:12:54,584  INFO [main] RegisterAnAccount:52 -                
+2018-10-09 22:12:54,585  INFO [main] RegisterAnAccount:53 -    Test Case:    New User creation
+2018-10-09 22:12:54,585  INFO [main] RegisterAnAccount:54 -                
+2018-10-09 22:12:54,704  INFO [main] RegisterAnAccount:69 -    Test Step: Index Page Opened Successfully
+2018-10-09 22:12:56,490  INFO [main] RegisterAnAccount:83 -    Test Step: Login Page Opened Successfully
+2018-10-09 22:12:57,116  INFO [main] RegisterAnAccount:95 -    Test Step: Entering the data for creating the New User
+2018-10-09 22:13:11,659  INFO [main] RegisterAnAccount:114 - Unable To Register a User
+2018-10-09 22:13:12,513  INFO [main] LoginPageTest:35 -  
+2018-10-09 22:13:12,513  INFO [main] LoginPageTest:36 -  
+2018-10-09 22:13:15,575  INFO [main] LoginPageTest:38 -    Test Preparation:    Driver Launched Successfully
+2018-10-09 22:13:24,675  INFO [main] LoginPageTest:41 -    Test Preparation:    URL Opened Successfully
+2018-10-09 22:13:24,676  INFO [main] LoginPageTest:43 -                
+2018-10-09 22:13:24,676  INFO [main] LoginPageTest:44 -                
+2018-10-09 22:13:24,677  INFO [main] LoginPageTest:45 -                
+2018-10-09 22:13:24,677  INFO [main] LoginPageTest:46 -    Test Case:    Existing User Login
+2018-10-09 22:13:24,678  INFO [main] LoginPageTest:47 -                
+2018-10-09 22:13:24,824  INFO [main] LoginPageTest:66 -    Test Step: Application Opened Successfully
+2018-10-09 22:13:26,846  INFO [main] LoginPageTest:79 -    Test Step: Login Page Opened Successfully
+2018-10-09 22:13:29,246  INFO [main] LoginPageTest:92 -    Test Step: Email ID and Password entered Successfully.
+2018-10-09 22:13:29,359  INFO [main] LoginPageTest:99 -    Test Step: User Logged in Successfully
+2018-10-09 22:13:33,146  INFO [main] ConductingSearchTest:39 -  
+2018-10-09 22:13:33,146  INFO [main] ConductingSearchTest:40 -  
+2018-10-09 22:13:33,147  INFO [main] ConductingSearchTest:41 -    Test Preparation:    Driver Launched Successfully
+2018-10-09 22:13:39,745  INFO [main] ConductingSearchTest:44 -    Test Preparation:    URL Opened Successfully
+2018-10-09 22:13:39,745  INFO [main] ConductingSearchTest:46 -                
+2018-10-09 22:13:39,746  INFO [main] ConductingSearchTest:47 -                
+2018-10-09 22:13:39,746  INFO [main] ConductingSearchTest:48 -                
+2018-10-09 22:13:39,746  INFO [main] ConductingSearchTest:49 -    Test Case:    Conducting Search
+2018-10-09 22:13:39,747  INFO [main] ConductingSearchTest:50 -                
+2018-10-09 22:13:39,936  INFO [main] ConductingSearchTest:71 -    Test Step: Index Page Opened Successfully
+2018-10-09 22:13:42,260  INFO [main] ConductingSearchTest:84 -    Test Step: Login Page Opened Successfully
+2018-10-09 22:13:44,411  INFO [main] ConductingSearchTest:95 -    Test Step: Email ID and Password entered Successfully.
+2018-10-09 22:13:44,520  INFO [main] ConductingSearchTest:102 -    Test Step: User Logged in Successfully
+2018-10-09 22:13:46,434  INFO [main] ConductingSearchTest:115 -    Test Step: Searched for an Item Successfully
+2018-10-09 22:13:50,348  INFO [main] NavigationTest:46 -  
+2018-10-09 22:13:50,349  INFO [main] NavigationTest:47 -  
+2018-10-09 22:13:50,349  INFO [main] NavigationTest:48 -    Test Preparation:    Driver Launched Successfully
+2018-10-09 22:13:58,103  INFO [main] NavigationTest:51 -    Test Preparation:    URL Opened Successfully
+2018-10-09 22:13:58,104  INFO [main] NavigationTest:53 -                
+2018-10-09 22:13:58,104  INFO [main] NavigationTest:54 -                
+2018-10-09 22:13:58,105  INFO [main] NavigationTest:55 -                
+2018-10-09 22:13:58,105  INFO [main] NavigationTest:56 -    Test Case:    Conducting some navigation and checking some values exist
+2018-10-09 22:13:58,105  INFO [main] NavigationTest:57 -                
+2018-10-09 22:13:58,273  INFO [main] NavigationTest:81 -    Test Step: Index Page Opened Successfully
+2018-10-09 22:13:59,898  INFO [main] NavigationTest:94 -    Test Step: Login Page Opened Successfully
+2018-10-09 22:14:02,914  INFO [main] NavigationTest:106 -    Test Step: Email ID and Password entered Successfully.
+2018-10-09 22:14:03,047  INFO [main] NavigationTest:113 -    Test Step: User Logged in Successfully
+2018-10-09 22:14:05,492  INFO [main] NavigationTest:126 -    Test Step: Searched for an Item Successfully
+2018-10-09 22:14:07,174  INFO [main] NavigationTest:139 -    Test Step: Item Selected Successfully
+2018-10-09 22:14:10,558  INFO [main] PurchaseTest:50 -  
+2018-10-09 22:14:10,559  INFO [main] PurchaseTest:51 -  
+2018-10-09 22:14:10,559  INFO [main] PurchaseTest:52 -    Test Preparation:    Driver Launched Successfully
+2018-10-09 22:14:18,743  INFO [main] PurchaseTest:55 -    Test Preparation:    URL Opened Successfully
+2018-10-09 22:14:18,744  INFO [main] PurchaseTest:57 -                
+2018-10-09 22:14:18,744  INFO [main] PurchaseTest:58 -                
+2018-10-09 22:14:18,745  INFO [main] PurchaseTest:59 -                
+2018-10-09 22:14:18,745  INFO [main] PurchaseTest:60 -    Test Case:    Making a purchase
+2018-10-09 22:14:18,746  INFO [main] PurchaseTest:61 -                
+2018-10-09 22:14:18,876  INFO [main] PurchaseTest:87 -    Test Step: Index Page Opened Successfully
+2018-10-09 22:14:20,568  INFO [main] PurchaseTest:100 -    Test Step: Login Page Opened Successfully
+2018-10-09 22:14:22,934  INFO [main] PurchaseTest:112 - Test Step: Email ID and Password entered Successfully.
+2018-10-09 22:14:23,102  INFO [main] PurchaseTest:119 -    Test Step: User Logged in Successfully
+2018-10-09 22:14:26,152  INFO [main] PurchaseTest:132 -    Test Step: Searched for an Item Successfully
+2018-10-09 22:14:28,399  INFO [main] PurchaseTest:145 -    Test Step: Item Selected Successfully
+2018-10-09 22:14:31,393  INFO [main] PurchaseTest:160 -    Test Step: Clicked On Proceed to Check
+2018-10-09 22:14:32,784  INFO [main] PurchaseTest:172 -    Test Step: Clicked On Proceed to Check in Address Tab
+2018-10-09 22:14:34,026  INFO [main] PurchaseTest:185 -    Test Step: Clicked On Proceed to Check in Shipping Tab
+2018-10-09 22:14:35,164  INFO [main] PurchaseTest:195 -    Test Step: Now it is into the Payment Tab
+2018-10-09 22:14:35,165  INFO [main] PurchaseTest:196 -    Test Case Completed Successfully
+2018-10-09 22:14:36,365 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 22:14:36,367 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 22:14:36,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 22:14:36,373 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 22:14:36,375 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ravinderrao%20katkuri/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-10-09 22:14:36,780 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2018-10-09 22:14:36,780 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2018-10-09 22:14:36,781 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-10-09 22:14:36,782 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-10-09 22:14:36,782 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/ravinderrao%20katkuri/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
